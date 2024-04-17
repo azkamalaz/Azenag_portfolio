@@ -1,7 +1,7 @@
 ## web CV portfolio
 This project is done by kamal azenag
 ## Introduction
-Here is the link to my deployed website <https://azenag.github.io/>
+Here is the link to my deployed website <https://azkamalaz.github.io/Azenag_portfolio/>
 
 Azenag <https://www.linkedin.com/in/kamal-azenag-99340865//>
 
